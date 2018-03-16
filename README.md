@@ -1,3 +1,7 @@
+Context : Aformac training for professionnal title Software developper
+
+Personnal training on Git, thanks to Michael Hardl for the good job, it is much clearer now !
+
 # Sample Website
 
 This is a sample website made as part of [*Learn Enough™ Git to Be
